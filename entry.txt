@@ -1,7 +1,5 @@
-10  3 1997	My Birthday
-14  7 1994	Brother's Birthday
 31 10 2016	2016's Diwali
  6 11 2016	Random entry
  8  2 2004	Random Entry2
  7 12 2016	Mini-Project External
- 9 12 2016	any entry
+26 01 2018	Initial Commit
